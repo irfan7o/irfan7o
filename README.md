@@ -10,5 +10,3 @@ About me:
 - 🌱 I’m currently learning about coding
 
 For more information, please visit https://bento.me/uiirfan
-
-![](https://komarev.com/ghpvc/?username=irfan7o&style=flat-square)
